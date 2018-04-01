@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "bmp180-netcore/1.0.0": {
+        "dependencies": {
+          "i2c-netcore": "1.0.0.0"
+        },
+        "runtime": {
+          "bmp180-netcore.dll": {}
+        }
+      },
+      "i2c-netcore/1.0.0.0": {
+        "runtime": {
+          "i2c-netcore.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bmp180-netcore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "i2c-netcore/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

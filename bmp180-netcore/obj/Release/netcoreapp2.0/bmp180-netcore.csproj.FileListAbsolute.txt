@@ -1,0 +1,10 @@
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\bin\Release\netcoreapp2.0\bmp180-netcore.deps.json
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\bin\Release\netcoreapp2.0\bmp180-netcore.dll
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\bin\Release\netcoreapp2.0\bmp180-netcore.pdb
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\bin\Release\netcoreapp2.0\i2c-netcore.dll
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.csprojResolveAssemblyReference.cache
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.csproj.CoreCompileInputs.cache
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.AssemblyInfoInputs.cache
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.AssemblyInfo.cs
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.dll
+C:\Users\antonio\source\repos\bmp180-netcore\bmp180-netcore\obj\Release\netcoreapp2.0\bmp180-netcore.pdb
