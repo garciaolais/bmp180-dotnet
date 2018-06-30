@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="i2c-dotnet">
+      <HintPath>include\i2c-dotnet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

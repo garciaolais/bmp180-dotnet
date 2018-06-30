@@ -1,0 +1,11 @@
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/bin/Debug/netcoreapp2.0/bmp180-netcore.deps.json
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/bin/Debug/netcoreapp2.0/bmp180-netcore.dll
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/bin/Debug/netcoreapp2.0/bmp180-netcore.pdb
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/bin/Debug/netcoreapp2.0/i2c-dotnet.dll
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.csprojAssemblyReference.cache
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.csproj.CoreCompileInputs.cache
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.AssemblyInfoInputs.cache
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.AssemblyInfo.cs
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.csproj.CopyComplete
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.dll
+/home/olais/Downloads/gits/bmp180-dotnet/bmp180-netcore/obj/Debug/netcoreapp2.0/bmp180-netcore.pdb
